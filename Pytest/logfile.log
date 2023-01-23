@@ -1,0 +1,4 @@
+2023-01-22 11:32:07,556 :INFO :  print info statement
+2023-01-22 11:32:07,556 :ERROR :  print error statement
+2023-01-22 11:32:07,556 :WARNING :  print warnign statement
+2023-01-22 11:32:07,556 :CRITICAL :  print critical statement
